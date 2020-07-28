@@ -1,45 +1,37 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Conheça os Power Rangers de Belém",
+      "link": "https://www.youtube.com/channel/UCneETuSKx_8VMozs9ZLG2Og/videos",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Nossos videos",
+        "url": "https://www.youtube.com/channel/UCneETuSKx_8VMozs9ZLG2Og/videos"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Primeiro trailer dos Power Rangers de Belém",
+          "url": "https://www.youtube.com/watch?v=8oSV1X9xmvo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Power Rangers de Belém no MC Donald",
+          "url": "https://www.youtube.com/watch?v=e2Lmqtpf1T0&t=5s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Primeiro vídeo de divulgação",
+          "url": "https://www.youtube.com/watch?v=-D76QX6zCw8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Segundo vídeo de divulgação",
+          "url": "https://www.youtube.com/watch?v=Msz4JDuwBpM"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Apresentação Comic Pará Fest 2019",
+          "url": "https://www.youtube.com/watch?v=HOmamaLp3Zg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Primeiro Cosplay Challange",
+          "url": "https://www.youtube.com/watch?v=DIjPqaG-iuw"
         }        
       ]
     },
